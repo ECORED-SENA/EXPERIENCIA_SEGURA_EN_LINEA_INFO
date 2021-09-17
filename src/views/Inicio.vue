@@ -7,63 +7,38 @@ section
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xxl-6.banner-principal__info
           .banner-principal__programa
-            .h1.mb-0 Atención integral de urgencias a víctimas de ataque con agentes químicos
+            .h1.mb-0 Desarrollo de habilidades digitales para experiencias seguras en línea
           
           .h2 Información del programa
           .banner-principal__datos
             ul
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto Atención integral de urgencias a víctimas de ataque con agentes químicos
+                p.banner-principal__datos__item__texto Desarrollo de habilidades digitales para experiencias seguras en línea
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 33110258
+                p.banner-principal__datos__item__texto 23310013
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 48 Horas
+                p.banner-principal__datos__item__texto 48 horas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
-                p.banner-principal__datos__item__texto 4 Semanas
+                p.banner-principal__datos__item__texto N/A
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                .banner-principal__datos__item__texto
-                  ul.lista-ul
-                    li
-                      i.lista-ul__vineta
-                      p Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.
-                    li
-                      i.lista-ul__vineta
-                      p Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.
-                    li
-                      i.lista-ul__vineta
-                      p Cumplir con el trámite de selección definido por el Centro de Formación.
-                    li
-                      i.lista-ul__vineta
-                      p Se requiere que el aprendiz AVA (Ambientes Virtuales de Aprendizaje) tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet, y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.
 
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
             | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
-    .titulo__template--a.mb-4
-      span.h4 1. Presentación
-
-    p En Colombia, los ataques mediante agentes químicos son un delito y una de las formas en las que se manifiesta en el país las violencias de género. A pesar de los esfuerzos estatales, esta violencia sigue presentándose y con frecuencia, las víctimas son atendidas de forma inadecuada en las diferentes instituciones responsables del restablecimiento de sus derechos (sectores salud, justicia y protección)
-      br
-      br
-      | Por tal motivo, el presente curso hace parte de las acciones que el Ministerio de Salud y Protección Social está realizando para garantizar que todas las víctimas de las diferentes manifestaciones de las violencias de género reciban una atención integral, oportuna y de calidad que permita su recuperación. Su principal objetivo es brindar a los equipos de salud información clara sobre las particularidades de las agresiones por agentes químicos, así como las acciones que deben implementarse en diferentes momentos para reducir el daño y tratar las afectaciones a la salud.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 2. Justificación<br>del programa
-
-    p Con el propósito de garantizar que las víctimas de agresiones por agentes químicos reciban en cualquier institución de salud una atención oportuna, pertinente y con racionalidad científica, de manera que se logre reducir el daño físico y mental, así como, que se desarrollen las acciones que les garantice el acceso a la justicia, a la protección y al restablecimiento de los derechos afectados, se dispone del Protocolo de Atención Integral en Urgencias a Víctimas de Ataque con Agentes Químicos, el cual debe ser observado y aplicado por los prestadores de servicios de salud y demás agentes que tengan contacto primario con las víctimas. El Gobierno Nacional se encargará de garantizar la capacitación del personal estatal que pueda tener contacto primario con una víctima de ataque con sustancias o agentes químicos corrosivos, a fin de darle la atención correspondiente.
-
+    p.mb-3  Los entornos económicos y sociales han tenido que adaptarse a la dinámica generada por los avances tecnológicos y la transformación digital aunado a la situación actual del mundo y particularmente en Colombia, como lo menciona el documento del observatorio laboral El COVID19 y el mercado de trabajo en Colombia, así la imposibilidad para regresar a los ambientes tradicionales ha exigido, laboral y profesionalmente, la necesidad de contar con entornos remotos para solventar los retos de la contingencia, trayendo consigo un aumento en la demanda de un conjunto de ocupaciones en ámbitos tales como la transformación digital, la telemedicina, el <i>marketing</i> digital y demás espacios que tienen el potencial de quedarse en nuestras vidas de manera permanente.
+    p.mb-3  Asimismo, en la recuperación de la economía actividades como el diseño gráfico ha hecho aportes relevantes, a futuro plantea la importancia de la inteligencia artificial, educación en la nube o el comercio electrónico como claves del desarrollo, en tal sentido, el SENA diseñó la <b>“Ruta de  fortalecimiento de las habilidades digitales para la vida y la productividad”</b>, de las cuales este curso trabaja la <b>Seguridad de la información</b> como cuarto programa de la ruta de aprendizaje, la cual brinda elementos conceptuales y herramientas que permitan desarrollar y fortalecer habilidades en la era digital para que los ciudadanos puedan adaptarse a las necesidades de las empresas y de la sociedad, que son parte de las competencias propuestas por la industria 4.0, además de ser un aporte que propicie el desarrollo y fortalecimiento de posibles emprendimientos sostenibles.
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 3. Población<br>objetivo
