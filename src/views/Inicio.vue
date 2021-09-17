@@ -54,7 +54,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Estrategia<br>metodológica
+      span.h4 3. Estrategia metodológica
 
     p.mb-4  Basada en el aprendizaje autogestionado en el que el aprendiz es el encargado y responsable de su propia gestión académica, mediante un papel activo en el estudio de los temas y el desarrollo de actividades encaminadas a promover las competencias propuestas en el programa. Para ello, el curso le orienta de manera práctica y puntual, a través de una serie de módulos con recursos formativos apoyados en TIC, y le estimula de manera permanente al alcance de los resultados de aprendizaje y el pensamiento crítico.
     p.mb-4  Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
