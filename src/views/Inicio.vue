@@ -36,26 +36,45 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 2. Justificación<br>del programa
+      span.h4 1. Justificación<br>del programa
     p.mb-3  Los entornos económicos y sociales han tenido que adaptarse a la dinámica generada por los avances tecnológicos y la transformación digital aunado a la situación actual del mundo y particularmente en Colombia, como lo menciona el documento del observatorio laboral El COVID19 y el mercado de trabajo en Colombia, así la imposibilidad para regresar a los ambientes tradicionales ha exigido, laboral y profesionalmente, la necesidad de contar con entornos remotos para solventar los retos de la contingencia, trayendo consigo un aumento en la demanda de un conjunto de ocupaciones en ámbitos tales como la transformación digital, la telemedicina, el <i>marketing</i> digital y demás espacios que tienen el potencial de quedarse en nuestras vidas de manera permanente.
     p.mb-3  Asimismo, en la recuperación de la economía actividades como el diseño gráfico ha hecho aportes relevantes, a futuro plantea la importancia de la inteligencia artificial, educación en la nube o el comercio electrónico como claves del desarrollo, en tal sentido, el SENA diseñó la <b>“Ruta de  fortalecimiento de las habilidades digitales para la vida y la productividad”</b>, de las cuales este curso trabaja la <b>Seguridad de la información</b> como cuarto programa de la ruta de aprendizaje, la cual brinda elementos conceptuales y herramientas que permitan desarrollar y fortalecer habilidades en la era digital para que los ciudadanos puedan adaptarse a las necesidades de las empresas y de la sociedad, que son parte de las competencias propuestas por la industria 4.0, además de ser un aporte que propicie el desarrollo y fortalecimiento de posibles emprendimientos sostenibles.
+  
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Población<br>objetivo
+      span.h4 2. Competencias a desarrollar
 
-    p El curso está dirigido a profesionales, tecnólogos y técnicos en salud que requieren conocer elementos conceptuales y normativos para implementar procesos y procedimientos operativos básicos que garanticen una atención en salud integral, oportuna y de calidad a las víctimas de ataque con agentes químicos.
+    p Implementar el sistema de seguridad de la información según el modelo y los estándares técnicos.
+  
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
+    .titulo__template--a.mb-4
+      span.h4 3. Perfil de ingreso
+
+    p Para la realización de este programa es necesario que el aprendiz tenga un adecuado manejo de las siguientes herramientas informáticas y de comunicación: correo electrónico, chats, messenger, procesadores de texto, software de presentación, Internet, navegadores, otros sistemas y herramientas tecnológicas para la formación virtual.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 3. Estrategia<br>metodológica
 
-    p Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
-      br
-      br
-      | Las estrategias didácticas integradoras están basadas en situaciones reales que le permitirán poner en marcha los contenidos conceptuales y procedimentales, aplicando sus conocimientos y habilidades para resolver un problema, frente a la atención integral de urgencias a víctimas de ataque con agentes químicos.
-      br
-      br
-      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    p.mb-4  Basada en el aprendizaje autogestionado en el que el aprendiz es el encargado y responsable de su propia gestión académica, mediante un papel activo en el estudio de los temas y el desarrollo de actividades encaminadas a promover las competencias propuestas en el programa. Para ello, el curso le orienta de manera práctica y puntual, a través de una serie de módulos con recursos formativos apoyados en TIC, y le estimula de manera permanente al alcance de los resultados de aprendizaje y el pensamiento crítico.
+    p.mb-4  Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    ul.lista-ul
+      li  
+        i.fas.fa-check 
+        | El instructor - tutor
+      li  
+        i.fas.fa-check 
+        |  El entorno
+      li  
+        i.fas.fa-check 
+        |  Las TIC
+      li  
+        i.fas.fa-check 
+        |  El trabajo colaborativo
+
+
+
+
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
