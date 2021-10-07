@@ -17,7 +17,7 @@ section
                 p.banner-principal__datos__item__texto Desarrollo de habilidades digitales para experiencias seguras en línea
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 23310013
+                p.banner-principal__datos__item__texto 23310016
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 48
@@ -55,7 +55,7 @@ section
     .titulo__template--a.mb-4
       span.h4 4. Perfil de ingreso
 
-    p Para la realización de este programa es necesario que el aprendiz tenga un adecuado manejo de las siguientes herramientas informáticas y de comunicación: correo electrónico, chats, messenger, procesadores de texto, software de presentación, Internet, navegadores, otros sistemas y herramientas tecnológicas para la formación virtual.
+    p Para la realización de este programa es necesario que el aprendiz tenga un adecuado manejo de las siguientes herramientas informáticas y de comunicación: correo electrónico, chats, messenger, procesadores de texto, <i>software</i> de presentación, Internet, navegadores, otros sistemas y herramientas tecnológicas para la formación virtual.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
